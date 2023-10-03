@@ -8,7 +8,7 @@ Hello, I'm David. Data Analyst with experience using SQL and Tableau to create d
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my data [projects]([https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md](https://github.com/davidwong001/My-Portfolio)).
+Welcome to my portfolio, where I showcase my data [projects](https://github.com/davidwong001/My-Portfolio).
 
 ### 🛠️ Tools
 
