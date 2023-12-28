@@ -14,10 +14,10 @@ Hello, I'm David. Data Analyst with experience using SQL and Tableau to create d
 - [Linkedin](https://www.linkedin.com/in/david-wong-193ab5228/)
 
 ### 📚 Data Projects
-| Project Link | Tools | About | Project Description | 
-|---|---|---|---|
-| [Consumer Behavior Analysis](https://github.com/davidwong001/Consumer-Behavior-Analysis) | SQL | Data analysis, data cleaning, data transformation | This repo serves as the solution for the 8 case studies from the. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
-|  [ABC Superstore Performance Dashboard](https://github.com/davidwong001/ABC-Superstore-Sales-Performance-Overview) | Tableau | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/david6301/viz/ABCSuperstorePerformanceDashboard/Overview) |
+| Project Link | Tools | About |
+|---|---|---|
+| [Consumer Behavior Analysis](https://github.com/davidwong001/Consumer-Behavior-Analysis) | SQL | The goal for this was to only use SQL to write an analysis. I used the "Customer Personality" dataset that I found from Kaggle, which contains demographic data on customers and their purchasing information. |
+|  [ABC Superstore Performance Dashboard](https://github.com/davidwong001/ABC-Superstore-Sales-Performance-Overview) | Tableau | The goal for this was to create a Tableau dashboard using Tableau's sample Superstore dataset as a way for stakeholders to monitor the business's performance. Additionally, I used the dashboard to analyze the data and write an analysis.|
 
 
 
