@@ -1,19 +1,16 @@
-### 👋 About Me
-Hello, I'm David. Data Analyst with experience using SQL and Tableau to create dashboards and data reporting decks. 
+### About Me
+Hello, I'm David, a Data Analyst with experience using SQL and Tableau to run analyses, create dashboards, and report on data insights. 
+- Querying data using SQL(SMSS).
+- Performing ETL processes with SQL/R to clean and load final data into databases.
+- Developing dashboards and visualizations with Tableau.
+- Creating reports and fulfilling ad-hoc requests for data analyses with PowerPoint/Slides.
 
-- Querying data using SQL Server Management Studio (SMSS).
-- Developing dashboards with Tableau.
-- Creating presentation reports and ad-hoc requests for data analysis with PowerPoint/Slides
-
-### 🛠️ Tools
+### Tools
 - Language: SQL (T-SQL)
 - Database: Microsoft SQL Server 
 - Visualization: Tableau, Microsoft PowerPoint, Google Slides
 
-### 📫 Connect with Me
-- [Linkedin](https://www.linkedin.com/in/david-wong-193ab5228/)
-
-### 📚 Data Projects
+### Data Projects
 | Project Link | Tools | About |
 |---|---|---|
 | [Consumer Behavior Analysis](https://github.com/davidwong001/Consumer-Behavior-Analysis) | SQL | The goal was to only use SQL to write an analysis. I used the "Customer Personality" dataset that I found from Kaggle, which contains demographic data on customers and their purchasing information. |
