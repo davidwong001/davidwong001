@@ -1,4 +1,4 @@
-## 👋 Introducing Myself
+## 👋 About Me
 
 Hello, I'm David. Data Analyst with experience using SQL and Tableau to create dashboards and data reporting decks. 
 
