@@ -16,8 +16,8 @@ Hello, I'm David. Data Analyst with experience using SQL and Tableau to create d
 ### 📚 Data Projects
 | Project Link | Tools | About |
 |---|---|---|
-| [Consumer Behavior Analysis](https://github.com/davidwong001/Consumer-Behavior-Analysis) | SQL | The goal for this was to only use SQL to write an analysis. I used the "Customer Personality" dataset that I found from Kaggle, which contains demographic data on customers and their purchasing information. |
-|  [ABC Superstore Performance Dashboard](https://github.com/davidwong001/ABC-Superstore-Sales-Performance-Overview) | Tableau | The goal for this was to create a Tableau dashboard using Tableau's sample Superstore dataset as a way for stakeholders to monitor the business's performance. Additionally, I used the dashboard to analyze the data and write an analysis.|
+| [Consumer Behavior Analysis](https://github.com/davidwong001/Consumer-Behavior-Analysis) | SQL | The goal was to only use SQL to write an analysis. I used the "Customer Personality" dataset that I found from Kaggle, which contains demographic data on customers and their purchasing information. |
+|  [ABC Superstore Performance Dashboard](https://github.com/davidwong001/ABC-Superstore-Sales-Performance-Overview) | Tableau | The goal was to create a Tableau dashboard using Tableau's sample Superstore dataset as a way for stakeholders to monitor the business's performance. Additionally, I used the dashboard to analyze the data and write an analysis.|
 
 
 
