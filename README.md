@@ -12,8 +12,8 @@ Welcome to my portfolio, where I showcase my data [projects](https://github.com/
 
 ### 🛠️ Tools
 
-- Language: SQL
-- Database: Microsoft SQL Server
+- Language: SQL (T-SQL)
+- Database: Microsoft SQL Server 
 - Visualization: Tableau, Microsoft PowerPoint, Google Slides
 
 ### 📫 Connect with Me
