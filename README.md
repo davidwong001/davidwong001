@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
---->
+
 - Querying data using SQL(SMSS).
 - Performing ETL processes with SQL/R to clean and load final data into databases.
 - Developing dashboards and visualizations with Tableau.
@@ -30,3 +30,5 @@ You can click the Preview link to take a look at your changes.
 - Databases: Snowflake, Microsoft SQL Server Management Studio (SSMS)
 - Visualization: Tableau, Power BI, Microsoft PowerPoint, Google Slides
 - Version Control: Git / GitHub
+
+--->
