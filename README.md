@@ -4,7 +4,7 @@ Hi, I'm David, a data professional with 2+ years of experience in ETL pipelines,
 ### Data Projects
 | Project Link | Tools | About |
 |---|---|---|
-| [ETL LEGO Database](https://github.com/davidwong001/ETL-LEGO-Database) | Python, SQL | Automated an ETL pipeline that extracts LEGO dataset CSV files from Rebrickable and loads them into a SQL Server Database. |
+| [ETL LEGO Database](https://github.com/davidwong001/ETL-LEGO-Database) | Python, SQL | An automated ETL pipeline that extracts LEGO dataset CSV files from Rebrickable, loads them into a local SQL Server database, and can be run on a daily schedule. There's also a separate batch file that can be run to query the database and export the data to CSV. |
 | [Consumer Behavior Analysis](https://github.com/davidwong001/Consumer-Behavior-Analysis) | SQL | The goal was to only use SQL to write an analysis. I used the "Customer Personality" dataset that I found from Kaggle, which contains demographic data on customers and their purchasing information. |
 |  [ABC Superstore Performance Dashboard](https://github.com/davidwong001/ABC-Superstore-Sales-Performance-Overview) | Tableau | The goal was to create a Tableau dashboard using Tableau's sample Superstore dataset as a way for stakeholders to monitor the business's performance. Additionally, I used the dashboard to analyze the data and write an analysis.|
 
